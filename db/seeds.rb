@@ -72,7 +72,7 @@ Movie.create([
     director: "Ridley Scott",
     description: "Groundbreaking for 1979 science fiction, Sigourney Weaver's Ellen Ripley is one of the genre's most iconic female characters. She's not a damsel—she's a badass final girl and the only survivor to defeat the monster that mutilated and destroyed every other member of the Nostromo crew.",
     poster_url: "https://images-na.ssl-images-amazon.com/images/I/5119C4MWJ0L.jpg",
-    category: "Fantasy",
+    category: "Science Fantasy",
     discount: true,
     female_director: false
   },
